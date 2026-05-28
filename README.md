@@ -20,4 +20,4 @@ Auto-type script for Roblox with draggable UI, console listener, and smart word 
 
 ## 📥 Installation
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/VertexHub/main/VertexHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lionelbenayap1910-ctrl/vertexhub-last-letter/refs/heads/main/VertexHub-Last-Letter.lua"))()
